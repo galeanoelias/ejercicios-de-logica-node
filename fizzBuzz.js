@@ -14,4 +14,4 @@ function fizz_buzz(n) {
     return result;
 }
 
-const fizz = fizz_buzz(15);
+console.log(fizz_buzz(15));
